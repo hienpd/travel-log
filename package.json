@@ -1,0 +1,27 @@
+{
+  "name": "travel-log",
+  "version": "0.1.0",
+  "description": "A log that records the places a user has traveled to.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hienpd/travel-log.git"
+  },
+  "keywords": [
+    "knex",
+    "express",
+    "postgres"
+  ],
+  "author": "hienpd <hienpd@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hienpd/travel-log/issues"
+  },
+  "homepage": "https://github.com/hienpd/travel-log#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
